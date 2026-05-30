@@ -35,11 +35,11 @@ The CLI tool streams data to the backend using network sockets.
 1. Open a new terminal window and navigate to the project root directory.
 2. Compile the source code:
 
-```console
-javac producer/producer.java
-```
+   ```console
+   javac producer/producer.java
+   ```
 
-1. Start transmitting video files via:
+3. Start transmitting video files via:
 
 ```console
 java producer.Producer NUMBER_OF_THREADS VIDEO_DIRECTORY ...
