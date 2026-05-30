@@ -15,7 +15,7 @@ This application was built with Java, Spring Boot, Thymeleaf, and Docker. To run
 
 Before proceeding, ensure the necessary tools are installed.
 
-## Web Server
+### Web Server
 
 The web server handles the receiving and rendering of the video files.
 
@@ -28,7 +28,7 @@ The web server handles the receiving and rendering of the video files.
 
 3. Once the containers are running, access the web interface via ["http://localhost:8080"](http://localhost:8080)
 
-## CLI File Upload
+### CLI File Upload
 
 The CLI tool streams data to the backend using network sockets.
 
