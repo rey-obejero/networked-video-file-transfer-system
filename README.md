@@ -26,7 +26,7 @@ The web server handles the receiving and rendering of the video files.
    docker compose up --build
    ```
 
-3. Once the containers are running, access the web interface via ["http://localhost:8080"](http://localhost:8080)
+3. Once the containers are running, access the web interface via [http://localhost:8080](http://localhost:8080).
 
 ### CLI File Upload
 
